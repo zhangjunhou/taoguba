@@ -1,0 +1,22 @@
+{
+  "title": "zhangjunhou",
+  "theme-default": {
+    "showLevel": true
+  },
+  "plugins": [
+    "prism",
+    "toc",
+    "-highlight",
+    "disqus",
+    "summary",
+    "theme-comscore"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "zhangjunhou"
+    },
+    "toc": {
+      "addClass": true
+    }
+  }
+}
